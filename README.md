@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Shanty-Ecommerce](https://shantyweb.vercel.app/)
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **FullStack Development**
 
 - 👯 I’m looking to collaborate on **great projects**
 

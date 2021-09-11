@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giancarlo</h1>
-<h3 align="center">A passionate frontend developer from Lima, Perú.</h3>
+<h3 align="center">A passionate front-end developer loose in Lima, Perú.</h3>
 
 - 🔭 I’m currently working on [Shanty-Ecommerce](https://shantyweb.vercel.app/)
 

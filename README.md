@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **great projects**
 
-- 💬 Ask me about **Front-end Development, Back-end Developmnet, Cloud Computing, UI Design, Good music, Soccer, and more**
+- 💬 Ask me about **Front-end Development, Back-end Developmnet, Cloud Computing, UI Design, Good music, Soccer, and more 🐱‍🏍**
 
 - 📫 How to reach me **gian.guerra23@gmail.com**
 

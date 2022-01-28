@@ -2,8 +2,8 @@
 <h3 align="center">A passionate front-end developer loose in Lima, Perú.</h3>
 
 - 🔭 I’m currently working on:
-   [Shanty-Ecommerce](https://shantyweb.vercel.app/) -> An Ecommerce App made with MERN and NextJS, styled with MUI.
-   [Notex](https://notexapp.herokuapp.com/) -> An Notes List App made with MERN styled with CSS Modules.
+   - [Shanty-Ecommerce](https://shantyweb.vercel.app/) -> An Ecommerce App made with MERN and NextJS, styled with MUI.
+   - [Notex](https://notexapp.herokuapp.com/) -> An Notes List App made with MERN styled with CSS Modules.
 
 - 🌱 I’m currently learning **FullStack Development**
 

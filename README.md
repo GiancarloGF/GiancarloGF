@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giancarlo Guerra</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 🔭 I’m currently working on [Solera](https://www.solera.pe/)
-
-- 🌱 I’m currently learning **Blockchain development, mobile application development**
+- 🌱 I’m currently learning **Mobile application development and Software Architecture**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-swart-phi.vercel.app/](https://personal-portfolio-swart-phi.vercel.app/)
 

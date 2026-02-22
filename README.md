@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Giancarlo Guerra</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 🌱 I’m currently learning **Mobile application development and Software Architecture**
+- 🌱 I’m currently learning **Software Architecture**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-swart-phi.vercel.app/](https://personal-portfolio-swart-phi.vercel.app/)
 
-- 💬 Ask me about **React, Nextjs, Typescript, Vue3, GraphQl**
+- 💬 Ask me about **React, Nextjs, Angular, Typescript, Vue3, GraphQl, Flutter**
 
 - 📫 How to reach me **gian.guerra23@gmail.com**
 
